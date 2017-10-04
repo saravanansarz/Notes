@@ -1,0 +1,2 @@
+# Notes
+All about EmberJS
